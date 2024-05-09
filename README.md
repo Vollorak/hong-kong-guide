@@ -5,5 +5,3 @@ Google Map: https://www.google.com/maps/d/u/0/edit?mid=1TWf3ve_JVSMBDYQYChwrC6i3
 ### [Food](Food.md)
 
 ### [Places](Places.md)
-
-### [Hiking](Hiking.md)
