@@ -15,7 +15,8 @@ culture. But a 10% service charge or tea charge is common.
 Most classic local places will probably speak Cantonese only with no English menu so you might wanna prepare Google
 Translate, message me when you go, or maybe I can write down your order for you beforehand. A lot of these places are
 cash only so make sure you prepare cash. Also at these places, the etiquette is to pay and leave as soon as you finish
-eating because usually people will be queueing up outside and you're taking up space. But these are the most local and
+eating because usually people will be queueing up outside and you're taking up space. There's no need to rush through
+your meal, just don't sit there and chat with your friends without touching your food. But these are the most local and
 authentic places you can go so I really recommend going. I'll mark these classic local places with [L]. You can usually
 tell as well by the fact that the name ends with "Kee", a practice very common with old-school HK restaurants.
 
@@ -30,10 +31,9 @@ local food you could try.
 
 ### [Kau Kee 九記](https://www.tripadvisor.com/g294217-d795044.html) £ [L] [[M]](https://guide.michelin.com/gb/en/hong-kong-region/hong-kong/restaurant/kau-kee)
 
-This is a **MUST VISIT**. It's in Central district so you'll be there anyways. Super well-known for its brisket noodle
-soup and curry sauce. Got a Michelin star I think. There's different kinds of noodles you can choose from. My favourite
-is the Curry Brisket and Beef Tendon Flat Noodle (咖喱牛筋腩伊麵). Don't go during typical lunch/dinner time unless you
-want to queue for hours.
+This is a **MUST VISIT**. Super well-known for its brisket noodle soup and curry sauce. Got a Michelin star. There's
+different kinds of noodles you can choose from. My favourite is the Curry Brisket and Beef Tendon Flat Noodle
+(咖喱牛筋腩伊麵). Don't go during typical lunch/dinner time unless you want to queue for hours.
 
 ### [Wing Kee 榮記](https://www.tripadvisor.co.uk/g294217-d8281481.html) £ [L]
 
@@ -77,7 +77,7 @@ in HK. DimDimSum has a better atmosphere, the menu is also much closer to tradit
 ### [Tim Ho Wan 添好運](https://www.tripadvisor.co.uk/g294217-d3749262.html) ££ [[M]](https://guide.michelin.com/gb/en/hong-kong-region/hong-kong/restaurant/tim-ho-wan-sham-shui-po)
 
 Another modern dim sum chain. The quality of the food is maybe a smidge better than DimDimSum, but they do a more
-modern take on some dim sum plates. They have some rather inventive new dishes as well which can be a hit or miss.
+modern take on some dim sum plates. They have some "inventive" new dishes as well which can be a hit or miss.
 
 ### [Sun Hing 新興食家](https://www.tripadvisor.co.uk/g294217-d3163990.html) £ [L]
 
@@ -99,7 +99,8 @@ it.
 
 Basically when people in HK think of roasted goose, this place is the first place they think about. They also have lots
 of other food but basically just go for the roasted goose. Problem with this restaurant is it's in a district that is
-in the middle of nowhere and is not interesting at all. So it might not be worth it to go just to try the roasted goose.
+in the middle of nowhere and is not interesting at all. So if you're only in HK for a short time it might not be worth
+it to go just to try the roasted goose.
 
 ### [Yung Kee Restaurant 鏞記酒家](https://www.tripadvisor.co.uk/g294217-d785057.html) £££
 
@@ -151,11 +152,11 @@ Others
 ### [Chi Lin Vegetarian 志蓮素齋](https://www.tripadvisor.co.uk/g294217-d2481861.html) ££
 
 It's located in Nan Lian Garden which is a place that will be in my
-[recommend visiting](Places.md#nan-lian-garden--chi-lin-nunnery) list. It's run by a Buddhist nunnery so it's completely
-vegetarian. The food is insanely good here, I've always said I can become a vegetarian if I can visit this restaurant
-every day. It's a slightly more expensive compared to the rest of the list but by London standards it's practically
-nothing. If you're going with a friend I'd recommend getting Set A for two people. The set is about £45 (total, not per
-person) and you get to try 7 different dishes. It's a popular restaurant so try to make a booking if you can.
+[recommend visiting](Places.md#nan-lian-garden-) list. It's run by a Buddhist nunnery so it's completely vegetarian. The
+food is insanely good here, I've always said I can become a vegetarian if I can visit this restaurant every day. It's a
+slightly more expensive compared to the rest of the list but by London standards it's practically nothing. If you're
+going with a friend I'd recommend getting Set A for two people. The set is about £45 (total, not per person) and you get
+to try 7 different dishes. It's a popular restaurant so try to make a booking if you can.
 
 ### [Chuen Kee 全記](https://www.tripadvisor.co.uk/g294217-d1207221.html) £££ [[M]](https://guide.michelin.com/gb/en/hong-kong-region/hong-kong/restaurant/chuen-kee-seafood)
 

@@ -14,7 +14,7 @@ with lots of dai pai dong street food, random market stalls and restaurants.
 
 ### Victoria Peak ★★★★★
 
-The Peak is a MUST do. The view you get from the top of the mountain is breathtaking. You get to see the entire city
+The Peak is a **MUST** do. The view you get from the top of the mountain is breathtaking. You get to see the entire city
 from the Hill. Typically people take **the Tram** up, it's a classic tourist experience. However, I personally find it
 to be overrated since it's super crowded and you don't really see much of anything. Taking the bus up is actually
 better. You also get to see the houses there, which are literally the most expensive houses in the entire world. When
@@ -91,12 +91,12 @@ to weird gadgets and toys. Don't just focus on the stalls though, behind the sta
 and [Cha Chaan Tengs](Food.md#cha-chaan-teng-茶餐廳冰室). It's usually open from noon, but best to visit in the late
 afternoon / early evening since a lot of stalls open later.
 
-Make sure you haggle, especially as a tourist. The prices are marked up sometimes up to triple their intended price. I
+Make sure you haggle, especially as a foreigner. The prices are marked up sometimes up to triple their intended price. I
 go to this market a lot as a kid since it's close to my school, and most of the time I could haggle to like half of the
 written price. Note that some of the stall owners can be very aggressive. If you looked at some things in the stall and
-decide not to buy anything, they might even start chasing you down the street given you cheaper prices and asking you to
-reconsider. It is genuinely a solid haggling tactic to just start walking away, but if you really don't want to buy just
-make sure to keep walking away and don't look back.
+decide not to buy anything, they might even start chasing you down the street giving you cheaper prices and asking you
+to reconsider. It is genuinely a solid haggling tactic to just start walking away, but if you really don't want to buy
+just make sure to keep walking away and don't look back.
 
 Nearby to Ladies' Market is also Sneaker Street. It's a street full of sneaker stores. Not worth spending a lot of time
 there unless you're REALLY into sneakers, but it is weird to see a street literally just lined with sneakers.
@@ -161,7 +161,8 @@ and stalls close really early.
 
 Similar to Golden Computer Arcade and Sino Centre, but this time it's phones. Just phones. And phone accessories.
 Nothing else. Second-hand phones, phone cases, phone chargers etc. The reason this is only one-star though is that
-unless you have a huge enthusiasm for phones, it's not nearly as exciting as the other two.
+unless you have a huge enthusiasm for phones, it's not nearly as exciting as the other
+two [Golden Computer Arcade](#golden-computer-arcade-) or [Sino Centre](#sino-centre-).
 
 Wong Tai Sin / Diamond Hill
 -------------------------------
@@ -195,7 +196,7 @@ Don't go if you're allergic to incense.
 
 Watch your valuables and don't let people sell you overpriced tourist crap. They'll sell you incense at extortionate
 prices telling you they grant wishes or something. Just be aware of that. Also in case you get confused, Wong Tai Sin
-is also the name of the district so don't confuse it with the actual temple.
+is also the name of the district.
 
 ### Chi Lin Nunnery ★★★★
 
@@ -218,8 +219,11 @@ Tsim Sha Tsui
 
 Victoria Harbour is where all the typical photos of Hong Kong are taken with all the skyscrapers. This is a **MUST**.
 Don't see it from the HK side though, go to the Kowloon side because the skyscrapers are much prettier on the HK side.
-The Avenue of Stars is a very nice walk around the harbour on the Kowloon side. If you go at night, you'll even see
-all the skyscrapers lit up with neon lights.
+The Avenue of Stars is a very nice walk around the harbour on the Kowloon side.
+
+Victoria Harbour also has a show every night at 8pm. Go slightly early to get a nice spot (best spot is near the Hong
+Kong Cultural Centre). All of the skyscrapers on the harbour coordinate together to do a massive light and laser show.
+It's an absolute spectacle.
 
 ### Palace Museum ★★★★
 
@@ -228,6 +232,8 @@ I've actually never visited this myself yet. Opened only last year in 2022, it's
 the Forbidden City in Beijing. Artifacts from the actual Palace Museum in Beijing are shipped and displayed in this
 museum. And because China wanted to REALLY show their generosity, the pieces shown are the best pieces in Beijing's
 museum.
+
+Get tickets early though. They're gone extremely quickly.
 
 ### Tsim Sha Tsui Star Ferry Pier ★★★★
 
@@ -279,8 +285,7 @@ Lantau Island
 Known as the Venice of Hong Kong, it is an entire village that's frozen for decades. The houses are built on stilts
 in water, where locals get around with boats. Unlike a lot of so-called "fishing villages" in other countries that are
 very commercialised for tourists, this village is extremely genuine in its traditional ways. You won't see any tourist
-traps or price-gouging restaurants there, in fact it's so hidden and surrounded by nature it feels like you've left
-HK for good.
+traps or price-gouging restaurants there, it's so hidden and surrounded by nature it feels like you've left HK for good.
 
 There are also some boat tours that will take you out to the open sea where you might get the chance to see pink
 dolphins. But you're not guaranteed to see them. In fact they're endangered and they're disappearing from HK, so go see
@@ -297,27 +302,24 @@ the faint of heart though. It's a genuinely difficult hiking trail that needs pr
 
 ### Ocean Park ★★★
 
-Rather than going to [Disneyland](#disneyland), if you really need to go to a theme park, go to Ocean Park instead. One
-of the biggest theme parks in asia, it is an aquatic themed park (think Finding Dory) that also happens to have a huge
-number of really hardcore roller-coaster rides. If I remember correctly it also has the world's largest aquarium dome.
-It's actually not just marine animals though, they have other animals such as giant pandas and red pandas.
-
-Pandas. Actual pandas. Why the fuck would you go to Disneyland?
+If you'd like to go to a theme park but you don't have enough time, go to Ocean Park instead of
+[Disneyland](#disneyland-). One of the biggest theme parks in asia, it is an aquatic themed park (think Finding Dory)
+that also happens to have a huge number of really hardcore roller-coaster rides. If I remember correctly it also has the
+world's largest aquarium dome. It's actually not just marine animals though, they have other animals such as giant
+pandas and red pandas.
 
 Oh and if you're going during Halloween, bring a few pairs of spare trousers and pants. It hosts the largest Halloween
 event in Asia. The haunted houses will scare the shit out of you literally. I think it actually killed someone a few
 years ago.
 
+### Disneyland ★★
+
+It's cool that Hong Kong has Disneyland, and if you have extra time (and money, lots of money) then Disneyland is worth
+a visit. HK's Disneyland is the smallest in the world, but on the other hand this means all the rides are much closer to
+each other and you don't have to spend a huge amount of time walking from one attraction to the other.
+
 Places to Avoid
 -------------------------------
-
-### Disneyland
-
-Smallest Disneyland in the world. Same shit that you see in every other Disneyland in the world. I never understand
-why people want to go when they only have a few days in HK.
-
-OK fine it has Arendelle from Frozen there which apparently no other Disneyland has. But... like... is it really worth
-it?
 
 ### Observation Wheel
 
